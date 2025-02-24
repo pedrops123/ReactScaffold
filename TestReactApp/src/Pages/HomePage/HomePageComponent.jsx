@@ -1,0 +1,1 @@
+export const HomeComponent = ()=> { return (<div className="content"> pagina home </div> )}

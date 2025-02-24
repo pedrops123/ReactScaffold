@@ -1,0 +1,1 @@
+export const FooterComponent = ({ParamNameFooter, classParameter})=>{ return (  <footer className={classParameter}>{ ParamNameFooter }</footer>) };

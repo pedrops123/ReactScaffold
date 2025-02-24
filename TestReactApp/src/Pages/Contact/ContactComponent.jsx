@@ -1,0 +1,1 @@
+export const ContactComponent = ()=> { return (<div className="content"> meus contatos </div> )}

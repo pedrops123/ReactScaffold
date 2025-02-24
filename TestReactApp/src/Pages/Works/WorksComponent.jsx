@@ -1,0 +1,1 @@
+export const WorksComponent = () => { return (<div className="content"> meus trabalhos </div> )}
